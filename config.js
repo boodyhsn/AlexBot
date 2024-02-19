@@ -1,10 +1,10 @@
 module.exports = {
-  TOKEN: "MTIwMjQyMTk1MzY4MDM3NTgyOA.G9xAwR.qk2XAy75xLHNazPahx49VHXmSvbfLHkUaCw984",
+  TOKEN: "MTIwMjQyMTk1MzY4MDM3NTgyOA.GhKPEb.Ix2ahjWqb9DnP2nCOc6O7r5zOs2_HC2HjIVagA",
   ownerID: ["750936874146594888", "750936874146594888"],
   botInvite: "1202421953680375828",
   supportServer: "https://discord.gg/boodyhsn",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'boodyhsn GG',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
