@@ -106,7 +106,7 @@ app.get('/', (req, res) => {
   res.sendFile(imagePath);
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
+  console.log(`🔗 Listening to boodyhsn: http://localhost:${port}`);
   console.log(`✨ Happy New Year Welcome To 2024`);
 });
 printWatermark();
