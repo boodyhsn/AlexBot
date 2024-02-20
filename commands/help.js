@@ -49,14 +49,19 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://media.discordapp.net/attachments/1174277469935779892/1206791335651049472/ntDy4Xt.jpg?ex=65dd4b03&is=65cad603&hm=e38c41c72af0437a96207a083ceea89f92c0bebdcf77e24314890c2f469fa90a&=&format=webp&width=960&height=540')
+       .setImage('https://cdn.discordapp.com/attachments/1206753963588845631/1209294701652607047/kwwN70d.jpg?ex=65e66674&is=65d3f174&hm=9285d9bfe8488981da19d36642f0638d031157961f3ba6ac3fdaa541f858afd1&')
       const button1 = new ButtonBuilder()
-        .setLabel('Add App')
-        .setURL('https://discord.com/api/oauth2/authorize?client_id=1202421953680375828&permissions=8&scope=bot')
+        .setLabel('YouTube')
+        .setURL('https://youtube.com/@boodyhsn-?si=2nenFQKGbYHQ1QSV')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
+        .setURL('https://discord.gg/boodyhsn')
+        .setStyle(ButtonStyle.Link);
+
+      const button3 = new ButtonBuilder()
+        .setLabel('Code')
         .setURL('https://discord.gg/boodyhsn')
         .setStyle(ButtonStyle.Link);
 
